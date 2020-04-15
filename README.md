@@ -1,4 +1,5 @@
-# Twilio ![alt text][pic] 
+# Twilio  
+![alt text][pic]
 ###### Twilio daily costs calculation and uploading to AWS S3 and Snowflake (Jenkins jobs)
 
 ### Upstream Job:
@@ -7,4 +8,4 @@
 ### Downstream Job:
 * Uploading tables from **AWS S3** to **Snowflake** DB.
 
-[pic]: https://github.com/GorelikEdi/Twilio/blob/master/pics/flow.png
+[pic]: https://github.com/GorelikEdi/Twilio/blob/master/pics/py_flow.png
